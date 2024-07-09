@@ -1,0 +1,9 @@
+{
+    "name": "aboshxm2/discord-webhook-api",
+    "require": {
+        "pocketmine/pocketmine-mp": "^5.13"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
